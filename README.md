@@ -90,3 +90,6 @@ This project utilizes diagnoses data to:
 1. Optimization: Normalized data for efficient queries.
 2. Logging: Version control for schema changes.
 3. Formatting: Regularized data types and clarified relationships.
+
+# Conclusion
+AI/ML presents a significant opportunity in the healthcare industry. Despite some risks of inaccuracies, the model demonstrates high initial accuracy rates and potential for use as a diagnostic filtering mechanism.
