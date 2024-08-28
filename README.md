@@ -1,6 +1,7 @@
 # Personalized Medical Recommendation System
-
-# Dashboard Demo (click on Dashboard video screen)
+![Recording 2024-08-28 145948 (3)](https://github.com/user-attachments/assets/7896a626-f78c-4c7f-ac57-48fe12cf5cd6)
+#
+# Dashboard Demo (click on below Dashboard video screen)
 https://github.com/user-attachments/assets/104ad424-d87a-44bd-9279-11644025efd1
 
 ## Personalized Medical Recommendation System
