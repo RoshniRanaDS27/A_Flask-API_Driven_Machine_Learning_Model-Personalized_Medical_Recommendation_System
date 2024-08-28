@@ -21,7 +21,10 @@ The **Personalized Medical Recommendation System** leverages advanced machine le
 
 - Link to Presentation: 
 - ML Model Notebook: 
-- Flask-API Dashboard:
+- Flask-APP-(windowsapi)Dashboard:
+    
+  ![image](https://github.com/user-attachments/assets/64f71d88-f397-4b84-b03d-41be4a7edb8e)
+
 
 # Technology Used
 
@@ -111,6 +114,8 @@ This project utilizes diagnoses data to:
 1. Documented optimization and evaluation process 
 2. Model performance display
 ![image](https://github.com/user-attachments/assets/8d1dcaee-7c0d-4a24-857e-e70df4613298)
+![image](https://github.com/user-attachments/assets/d5e54f23-eced-4a72-b95a-be6868726451)
+
 
 
 - GitHub Documentation 
