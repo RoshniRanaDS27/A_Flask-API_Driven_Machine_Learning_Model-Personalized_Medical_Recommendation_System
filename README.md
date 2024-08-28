@@ -21,6 +21,18 @@ The **Personalized Medical Recommendation System** leverages advanced machine le
 - ML Model Notebook: 
 - Flask-API Dashboard:
 
+# Technology Used
+
+### Data Science Libraries:
+- scikit-learn: RandomForestClassifier, GradientBoostingClassifier, KNeighborsClassifier, SVC, MultinomialNB, StandardScaler, LabelEncoder, RFE
+- Data Handling: pandas, numpy
+- Visualization: matplotlib.pyplot, seaborn
+- Text Processing: textblob
+### Web Development:
+- Backend: flask
+### Utilities: pickle, warnings, os
+
+
 ## The Model
 This project utilizes diagnoses data to:
 
