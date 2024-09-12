@@ -9,7 +9,7 @@ Welcome to our Flask API-based Machine Learning model, designed as a comprehensi
 
 Our system employs a Linear Regression model at its core, focusing on creating an intelligent, user-friendly interface for medical diagnosis and recommendations. Users can input their symptoms into the dashboard, and the system will provide accurate predictions along with relevant recommendations.
 
-## Key Features:
+## Key Features: 
 - ### Comprehensive Recommendations:
   Beyond identifying potential diseases, the system offers a detailed disease description, a list of precautions, suggested workout plans, a tailored medication list, and a diet plan. This holistic approach ensures users not only understand their diagnosis but also receive actionable steps to enhance their health.
 
